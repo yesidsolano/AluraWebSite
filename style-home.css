@@ -1,0 +1,64 @@
+body{
+    
+}
+
+
+p{
+    text-align: left;
+    font-size: 24px;
+    color: darkred;
+    
+}
+
+#im1{
+    width: 100%;
+}
+
+.principal{
+    background: whitesmoke;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: darkblue;
+    
+}
+
+
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 28px;
+    text-align: center;
+}
+
+.diferenciales{
+    background: rgb(248, 248, 242);
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+    color: indigo;
+    font-size: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.im2{
+    width: 50%;
+}
